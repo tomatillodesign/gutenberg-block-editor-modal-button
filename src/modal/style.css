@@ -1,0 +1,14 @@
+.entry-content .wp-block-clb-custom-blocks-board-member {
+     padding: 20px;
+     border: 1px solid #ddd;
+}
+
+.board-member-area h4 {
+    margin-top: 0;
+}
+
+.board-member-bio-body, .board-member-website {
+    font-size: 15px;
+    font-size: 1.5rem;
+    font-style: italic;
+}
